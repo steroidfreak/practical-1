@@ -1,0 +1,6 @@
+#map {
+    width: 80%; /* Limit width to 80% of parent container */
+    height: 70vh; /* Responsive height */
+    margin: 0 auto; /* Center horizontally */
+    display: block; /* Ensure block-level element */
+  }
